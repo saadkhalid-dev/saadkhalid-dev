@@ -1,15 +1,27 @@
-# 💫 About Me:
-👋 I'm Saad, a Software Engineering MSci student in the UK, currently preparing for a 2027 technology placement.<br><br>💻 I'm building my skills across Java, Python and React, alongside my university studies in databases, networks, operating systems and cybersecurity.<br><br>🚀 I'm currently building a portfolio of projects that solve problems I actually care about, rather than projects made just to fill a GitHub profile. These include a CV Match Analyzer for placement applications, a Prop Firm Performance Analyzer inspired by my interest in trading, a Training Performance Analyzer based around the gym and performance tracking, and Java projects focused on software design, networking and practical problem solving.<br><br>📈 Outside software engineering, I'm interested in financial markets, trading, the gym and sports. I like projects where I can combine those interests with programming and data to build something genuinely useful.<br><br>🧠 Right now I'm focused on becoming a stronger software engineer, improving my problem solving and building projects I can properly explain, maintain and develop further.<br><br>🎯 Currently working towards: 2027 Software Engineering & Technology Placements
+# Saad Khalid
 
+Software Engineering MSci student at the University of Glasgow, focused on backend and full-stack development.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadkhalid-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saad.khalid06@gmail.com) 
+I'm interested in building practical software, backend systems and data-driven applications, with a particular interest in financial technology.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=saadkhalid-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=saadkhalid-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saadkhalid-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Currently Building
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Transaction Ledger** — Java application for processing and analysing financial transactions
+- **Uptime Monitor API** — Python/FastAPI backend for monitoring website and API availability
+- **CV Match Analyzer** — Python tool for comparing CV evidence against job requirements
+
+## Tech
+
+`Java` `Python` `SQL` `React` `FastAPI` `PostgreSQL` `Git`
+
+## Currently Learning
+
+- Data structures & algorithms
+- Backend engineering
+- REST APIs & databases
+- Software testing
+- Open-source development
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/saadkhalid-tech/)
