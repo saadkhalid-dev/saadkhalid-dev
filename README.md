@@ -6,8 +6,9 @@ I'm interested in building practical software, backend systems and data-driven a
 
 ## Currently Building
 
+- **Ember** — Full-stack trading performance platform used by 30+ active traders.
 - **Transaction Ledger** — Java application for processing and analysing financial transactions
-- **Uptime Monitor API** — Python/FastAPI backend for monitoring website and API availability
+- **CineMatch API** — Python/FastAPI backend using the TMDB API for real movie search, popular movie discovery and detailed movie information. Currently in development.
 - **CV Match Analyzer** — Python tool for comparing CV evidence against job requirements
 
 ## Tech
